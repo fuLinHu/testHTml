@@ -1,0 +1,6 @@
+在github上创建demo
+1.将demoe放在新建的仓库中
+2.查看code发现都是代码，而不是显示的html在浏览器上的内容
+3.在该页面进入setting中，向下滑动找到GitHub Pages，找到Source选项，选择正确的分支内容，保存。这时候会显示
+  Your site is ready to be published at https://fulinhu.github.io/testHTml/.
+  这个地址就是访问demeo的地址。可与线上访问了。
